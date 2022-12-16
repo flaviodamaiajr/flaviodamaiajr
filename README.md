@@ -1,7 +1,7 @@
 Hi 👋 My name is Flávio!
 ========================
 
-Full-Stack Developer (Web and Mobile)
+Full-Stack Engineer (Web and Mobile)
 -------------------------------------
 
 * 🌍  I'm based in Brazil
