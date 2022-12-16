@@ -4,10 +4,10 @@ Hi 👋 My name is Flávio!
 Full-Stack Engineer (Web and Mobile)
 -------------------------------------
 
-* 🌍  I'm based in Brazil
-* 🚀  I'm creator of [Mailtrap for .NET](https://github.com/flaviodamaiajr/mailtrap)
-* 🤝  I'm open to collaborating on interesting projects as a developer
-* 🏄‍♂️  I like to surf on the weekends
+* 🌍 I'm based in Brazil
+* 🚀 I'm creator of [Mailtrap for .NET](https://github.com/flaviodamaiajr/mailtrap)
+* 🤝 I'm open to collaborating on interesting projects as a developer
+* 🏄‍♂️ I like to surf on the weekends
 
 <a href="https://www.github.com/flaviodamaiajr" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/flaviodamaiajr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
