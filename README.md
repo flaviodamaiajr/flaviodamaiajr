@@ -6,7 +6,8 @@ Full-Stack Engineer (Web and Mobile)
 
 * 🌍 I'm based in Brazil
 * 🚀 I'm creator of [Mailtrap for .NET](https://github.com/flaviodamaiajr/mailtrap)
-* 🤝 I'm open to collaborating on interesting projects as a developer
+* 📚 I'm studying Azure Cloud Services
+* 🤝 I'm open to collaborating on interesting projects as a developer
 * 🏄‍♂️ I like to surf on the weekends
 
 <a href="https://www.github.com/flaviodamaiajr" target="_blank" rel="noreferrer"><img
