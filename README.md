@@ -7,7 +7,7 @@ Full-Stack Engineer (Web and Mobile)
 * 🌍 I'm based in Brazil
 * 🚀 I'm creator of [Mailtrap for .NET](https://github.com/flaviodamaiajr/mailtrap)
 * 📚 I'm studying Azure Cloud Services and Web3
-* 👨‍💻 I'm currently working on UTM Builder 
+* 👨‍💻 I'm currently working on [UTM Builder](https://github.com/flaviodamaiajr/utm-builder)
 * 🤝 I'm open to collaborating on interesting projects as a developer
 * 🏄‍♂️ I like to surf on the weekends
 
