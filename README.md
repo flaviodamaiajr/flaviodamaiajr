@@ -4,7 +4,7 @@ Hi 👋 My name is Flávio!
 Full-Stack Engineer (Web and Mobile)
 -------------------------------------
 
-* 🌍 I'm based in Brazil
+* 🌍 I'm based in Europe
 * 🚀 I'm creator of [Mailtrap for .NET](https://github.com/flaviodamaiajr/mailtrap)
 * 📚 I'm studying Azure Cloud Services and Web3
 * 👨‍💻 I'm currently working on [UTM Builder](https://github.com/flaviodamaiajr/utm-builder)
